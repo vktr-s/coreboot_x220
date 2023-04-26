@@ -1,6 +1,5 @@
 # coreboot_x220
-Configuration Coreboot 4.19 for ThinkPad x220 i7-2640m
-------
+_Configuration Coreboot 4.19 for ThinkPad x220 i7-2640m_
 
 ```
 General
@@ -93,3 +92,5 @@ Payload
 
 Debugging
 ```
+Work stable/without freezes in Artix Linux with parameters "intel_idle.max_cstate=2" ---> GRUB_CMDLINE_LINUX_DEFAULT (/etc/default/grub) and sudo update-grub. 
+---
