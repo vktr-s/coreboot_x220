@@ -92,5 +92,5 @@ Payload
 
 Debugging
 ```
-Work stable/without freezes in Artix Linux with parameters "intel_idle.max_cstate=2" ---> GRUB_CMDLINE_LINUX_DEFAULT (/etc/default/grub) and sudo update-grub. 
+Work stable/without freezes in Artix Linux with "intel_idle.max_cstate=2" ---> GRUB_CMDLINE_LINUX_DEFAULT (/etc/default/grub) and sudo update-grub. 
 ---
