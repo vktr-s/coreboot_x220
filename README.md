@@ -1,7 +1,6 @@
 # coreboot_x220
-
 Configuration Coreboot 4.19 for ThinkPad x220 i7-2640m
-
+------
 
 ```
 General
