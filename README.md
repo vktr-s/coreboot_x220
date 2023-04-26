@@ -1,7 +1,9 @@
 # coreboot_x220
 
-Configuration Coreboot 4.19 for ThinkPad x220
+Configuration Coreboot 4.19 for ThinkPad x220 i7-2640m
 
+
+```
 General
       Compiler to use (GCC) --->
       Option backend to use (Use CMOS for configuration values) --->
@@ -91,3 +93,4 @@ Payload
         [ ] Load tint as a secondary payload
 
 Debugging
+```
