@@ -9,7 +9,7 @@ General
   [*] Include coreboot .config file into the ROM image
   [*] Allow use of binary-only repository
   [*] Add a bootsplash image
-      (/home/nyancat/Code/coreboot_thinkpad_x220/bootsplash.jpg) Bootsplash path and filename
+      (/home/user/Code/coreboot_thinkpad_x220/bootsplash.jpg) Bootsplash path and filename
 
 Mainboard
   *** Important: Run 'make distclean' before switching boards ***
